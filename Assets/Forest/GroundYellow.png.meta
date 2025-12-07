@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 20936af9f4ba1d64ba44360082a8814b
+guid: 3a914101f35e7274bb9e0e909519d6e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5836571204506248450
-    second: GroundYello 1_0
+      213: 6678351250323007265
+    second: GroundYellow_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GroundYello 1_0
+      name: GroundYellow_0
       rect:
         serializedVersion: 2
         x: 0
@@ -108,15 +108,15 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efa9129b965500fa0800000000000000
-      internalID: -5836571204506248450
+      spriteID: 127e9c824154eac50800000000000000
+      internalID: 6678351250323007265
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f937b688446b3444c94a23ba9e03a893
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +133,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      GroundYello 1_0: -5836571204506248450
+      GroundYellow_0: 6678351250323007265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
