@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\bomberman\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|c:\\unity projects\\bomberman\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|c:\\unity projects\\bomberman\\assets\\scripts\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|c:\\unity projects\\bomberman\\assets\\scripts\\view\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\view\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|C:\\Unity Projects\\bomberman\\assets\\scripts\\model\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\model\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|C:\\Unity Projects\\bomberman\\assets\\scripts\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|C:\\Unity Projects\\bomberman\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|c:\\unity projects\\bomberman\\assets\\scripts\\movementstrategies\\aimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|C:\\Unity Projects\\bomberman\\assets\\scripts\\movementstrategies\\aimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0605416F-4639-9601-6081-A0FF46EC2E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementstrategies\\aimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,6 +47,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Controller\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\PlayerController.cs",
+              "ToolTip": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Controller\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\PlayerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:10:27.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerView.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\View\\PlayerView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\View\\PlayerView.cs",
+              "ToolTip": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\View\\PlayerView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\View\\PlayerView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:08:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\GameModel.cs",
+              "ToolTip": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Model\\GameModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:00:59.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerModel.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Model\\PlayerModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\PlayerModel.cs",
+              "ToolTip": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Model\\PlayerModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\PlayerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:56:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -38,12 +104,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T15:25:21.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T15:25:21.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AIMovement.cs",
               "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\MovementStrategies\\AIMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovementStrategies\\AIMovement.cs",
@@ -51,12 +116,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MovementStrategies\\AIMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T15:17:14.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T15:17:14.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "KeyboardMovement.cs",
               "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\MovementStrategies\\KeyboardMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovementStrategies\\KeyboardMovement.cs",
@@ -68,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IMovementStrategy.cs",
               "DocumentMoniker": "C:\\Unity Projects\\bomberman\\Assets\\Scripts\\MovementStrategies\\IMovementStrategy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovementStrategies\\IMovementStrategy.cs",
